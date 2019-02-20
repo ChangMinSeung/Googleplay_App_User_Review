@@ -1,2 +1,2 @@
-# Googleplay_App_User_Review
-Googleplay_App_User_Review(ex.pinkfongTV)
+# Googleplay_App_User_Review_Practice
+Googleplay_App_User_Review_Practice(ex.pinkfongTV)
